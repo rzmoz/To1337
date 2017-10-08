@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$title$</title>
+        <authors>rzmoz</authors>
+        <owners>rzmoz</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.org/rzmoz/Tol337</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Your favorite L337 translator. Translatez yout text int ol337. Supports multiple levels of 1337ness. Web friendly so it doesn't translate html tags!</description>
+    </metadata>
+    <files>
+    </files>
+</package>

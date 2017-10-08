@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rulez>
+    <!-- 6 characters -->
+    <rule trigger="newbie">
+        <translation value="newb" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="newbee">
+        <translation value="newb" maxL337ness="N00b" weight="10" />
+    </rule>
+
+    <!-- 5 characters -->
+    <rule trigger="elite">
+        <translation value="leet" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="lamer">
+        <translation value="llama" maxL337ness="N00b" weight="10" />
+    </rule>
+
+    <!-- 4 characters -->
+    <rule trigger="lame">
+        <translation value="llama" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="newb">
+        <translation value="n00b" maxL337ness="N00b" weight="10" />
+        <translation value="noob" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="fuck">
+        <translation value="fuck" maxL337ness="N00b" weight="30" />
+        <translation value="fuq" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="porn">
+        <translation value="pr0n" maxL337ness="N00b" weight="10" />
+        <translation value="pron" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="leet">
+        <translation value="1337" maxL337ness="N00b" weight="15" />
+        <translation value="L337" maxL337ness="N00b" weight="10" />
+        <translation value="1EEt" maxL337ness="L337" weight="10" />
+        <translation value="133+" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="cool">
+        <translation value="w00t" maxL337ness="N00b" weight="10" />
+        <translation value="w00+" maxL337ness="L337" weight="10" />
+        <translation value="woot" maxL337ness="N00b" weight="5" />
+    </rule>
+    <rule trigger="that">
+        <translation value="taht" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="cker">
+        <translation value="xx0r" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="xx0R" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="rock">
+        <translation value="rockz0r your box0rz" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="res ">
+        <translation value="res " maxL337ness="L337" weight="10" />
+        <translation value="rz " maxL337ness="L337" weight="10" />
+    </rule>
+
+    <!-- 3 characters -->
+    <rule trigger="the">
+        <translation value="teh" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="own">
+        <translation value="pwn" maxL337ness="N00b" weight="10" />
+        <translation value="ownz0r" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="ck ">
+        <translation value="xx0r " maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="xx0R " maxL337ness="H4rdC0r3H4xx0r" weight="5" />
+    </rule>
+
+    <!-- 2 character -->
+    <rule trigger="ea">
+        <translation value="ea" maxL337ness="N00b" weight="20" />
+        <translation value="ee" maxL337ness="L337" weight="5" />
+    </rule>
+    <rule trigger="s ">
+        <translation value="s " maxL337ness="N00b" weight="10" />
+        <translation value="z " maxL337ness="L337" weight="15" />
+    </rule>
+
+    <!-- 1 character -->
+    <rule trigger="a">
+        <translation value="a" maxL337ness="N00b" weight="7" />
+        <translation value="4" maxL337ness="N00b" weight="10" />
+        <translation value="@" maxL337ness="L337" weight="5" />
+        <translation value="^" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="/-\" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="b">
+        <translation value="b" maxL337ness="N00b" weight="7" />
+        <translation value="8" maxL337ness="L337" weight="10" />
+        <translation value="ß" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|3" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="]3" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="c">
+        <translation value="(" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="©" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="d">
+        <translation value="|)" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="e">
+        <translation value="e" maxL337ness="N00b" weight="5" />
+        <translation value="3" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="f">
+        <translation value="ph" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="g">
+        <translation value="g" maxL337ness="N00b" weight="7" />
+        <translation value="6" maxL337ness="L337" weight="10" />
+    </rule>
+    <rule trigger="h">
+        <translation value="|-|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="]-[" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="i">
+        <translation value="i" maxL337ness="N00b" weight="5" />
+        <translation value="1" maxL337ness="N00b" weight="10" />
+    </rule>
+    <rule trigger="k">
+        <translation value="k" maxL337ness="N00b" weight="20" />
+        <translation value="q" maxL337ness="L337" weight="7" />
+        <translation value="|{" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="m">
+        <translation value="|\/|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="/\/\" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="n">
+        <translation value="|\|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|/|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="/|/" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="o">
+        <translation value="o" maxL337ness="N00b" weight="5" />
+        <translation value="0" maxL337ness="N00b" weight="10" />
+        <translation value="()" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="p">
+        <translation value="|*" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|D" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="r">
+        <translation value="®" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|2" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="s">
+        <translation value="s" maxL337ness="Off" weight="10" />
+        <translation value="5" maxL337ness="N00b" weight="10" />
+        <translation value="$" maxL337ness="L337" weight="5" />
+        <translation value="§" maxL337ness="H4rdC0r3H4xx0r" weight="5" />
+    </rule>
+    <rule trigger="t">
+        <translation value="t" maxL337ness="N00b" weight="15" />
+        <translation value="7" maxL337ness="N00b" weight="10" />
+        <translation value="+" maxL337ness="L337" weight="7" />
+    </rule>
+    <rule trigger="u">
+        <translation value="µ" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|_|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="v">
+        <translation value="\/" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="w">
+        <translation value="\/\/" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="|/\|" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+    </rule>
+    <rule trigger="z">
+        <translation value="z" maxL337ness="N00b" weight="15" />
+        <translation value="2" maxL337ness="L337" weight="10" />
+    </rule>
+</rulez>
