@@ -47,8 +47,8 @@
         <translation value="taht" maxL337ness="L337" weight="10" />
     </rule>
     <rule trigger="cker">
-        <translation value="xx0r" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
-        <translation value="xx0R" maxL337ness="H4rdC0r3H4xx0r" weight="10" />
+        <translation value="xx0r" maxL337ness="L337" weight="10" />
+        <translation value="xx0R" maxL337ness="L337" weight="10" />
     </rule>
     <rule trigger="rock">
         <translation value="rockz0r your box0rz" maxL337ness="L337" weight="10" />

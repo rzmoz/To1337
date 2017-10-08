@@ -21,7 +21,7 @@ namespace To1337.Tests
         [Fact]
         public void To1337_N00b_Translated()
         {
-            var text = "Hello World!";
+            var text = "The newbie couldn't believe how cool this is. It rocks!";
 
             var output = text.To1337(L337ness.N00b);
 
@@ -31,7 +31,7 @@ namespace To1337.Tests
         [Fact]
         public void To1337_L337_Translated()
         {
-            var text = "Hello World!";
+            var text = "The newbie couldn't believe how cool this is. It rocks!";
 
             var output = text.To1337(L337ness.L337);
 
@@ -41,7 +41,7 @@ namespace To1337.Tests
         [Fact]
         public void To1337_H4rdC0r3H4xx0r_Translated()
         {
-            var text = "Hello World!";
+            var text = "The newbie couldn't believe how cool this is. It rocks!";
 
             var output = text.To1337(L337ness.H4rdC0r3H4xx0r);
 
