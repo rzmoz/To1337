@@ -34,18 +34,18 @@ output > "H3ll0 W0rld!"
 ### Input
 
 ```
-The newbie couldn't believe how cool this is. It rocks!
+The beginner couldn't believe how cool this is. It rocks!
 ```
 
 
 ### N00b
 ```
-The n00b couldn't believe how w00t 7his 1s. It rock5!
+Th3 noob c0uldn't b3l13v3 how w00t th1s 15. I7 rocks!
 ```
 
 ### L337
 ```
-Th3 noob c0uldn't b3l13v3 h0w w00t th12 is. I+ r0ck20r y0ur 80x0r2s!
+Th3 n00b c0uldn't b3l13v3 h0w w00t th12 is. I+ r0ck20r y0ur 80x0r2s!
 ```
 ### H4rdC0r3H4xx0r
 ```
