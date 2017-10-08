@@ -2,6 +2,7 @@
 
 Your favorite .NET L337 tranzlator. Translates your strings into L337
 
+## Installation
 ```ps
 PM > Install-Package To1337
 ```
@@ -26,4 +27,27 @@ output > "H3ll0 W0rld!"
 #### Example with set l337ness: 
 ```cs
 "Hello World!".To1337(L337ness.H4rdC0r3H4xx0r)
+```
+
+## Output Examples
+
+### Input
+
+```
+The newbie couldn't believe how cool this is. It rocks!
+```
+
+
+### N00b
+```
+The n00b couldn't believe how w00t 7his 1s. It rock5!
+```
+
+### L337
+```
+Th3 noob c0uldn't b3l13v3 h0w w00t th12 is. I+ r0ck20r y0ur 80x0r2s!
+```
+### H4rdC0r3H4xx0r
+```
+T]-[3 |\|00ß ©()µl|)|/|'7 bel1e\/e |-|0\/\/ \/\/00+ t|-|15 15. It |2o(kz0|2 yo|_||2 |3ox0|2zs!
 ```
