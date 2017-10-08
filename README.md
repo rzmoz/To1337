@@ -2,6 +2,11 @@
 
 Your favorite .NET L337 tranzlator. Translates your strings into L337
 
+```ps
+PM > Install-Package To1337
+```
+
+
 ## Simple usage
 ```cs
 using To1337;
