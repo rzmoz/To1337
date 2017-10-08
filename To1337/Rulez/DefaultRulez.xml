@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <rulez>
+    <!-- 8 characters -->
+    <rule trigger="beginner">
+      <translation value="newb" maxL337ness="N00b" weight="10" />
+    </rule>  
     <!-- 6 characters -->
+    <rule trigger="rookie">
+      <translation value="newb" maxL337ness="N00b" weight="10" />
+    </rule>
     <rule trigger="newbie">
         <translation value="newb" maxL337ness="N00b" weight="10" />
     </rule>
@@ -21,11 +28,10 @@
         <translation value="llama" maxL337ness="N00b" weight="10" />
     </rule>
     <rule trigger="newb">
-        <translation value="n00b" maxL337ness="N00b" weight="10" />
+        <translation value="n00b" maxL337ness="L337" weight="10" />
         <translation value="noob" maxL337ness="N00b" weight="10" />
     </rule>
     <rule trigger="fuck">
-        <translation value="fuck" maxL337ness="N00b" weight="30" />
         <translation value="fuq" maxL337ness="N00b" weight="10" />
     </rule>
     <rule trigger="porn">
