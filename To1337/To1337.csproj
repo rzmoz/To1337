@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/rzmoz/To1337</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rzmoz/To1337</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>L337</PackageTags>
+    <PackageLicenseUrl>https://github.com/rzmoz/To1337/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>@rzmoz 2018</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

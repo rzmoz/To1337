@@ -1,7 +1,12 @@
 {
-  "version": {
-    "semver10": "2.0.1",
-    "prerelease": ""
-  },
-  "override": []
+  "releases": [
+    {
+      "name": "To1337",
+      "version": "2.0.2",
+      "prerelease": ""
+    }
+  ],
+  "tests": [
+    "To1337.Tests"
+  ]
 }
