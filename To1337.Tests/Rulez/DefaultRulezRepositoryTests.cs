@@ -11,7 +11,7 @@ namespace To1337.Tests.Rulez
         public void RetreiveAll_Retreival_HasRules()
         {
             var rulez = new RulezRepository();
-            rulez.Count.Should().Be(40);
+            rulez.Count.Should().Be(42);
         }
     }
 }
